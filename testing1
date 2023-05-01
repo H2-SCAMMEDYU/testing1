@@ -1,2 +1,0 @@
-while true do
-loadstring(game:HttpGet("PASTE RAW HERE"))()
